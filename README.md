@@ -41,7 +41,7 @@ Below is how you can install and setting up the app.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/vladtomoiaga/repo_name.git
+   git clone https://github.com/vladtomoiaga/TypingSpeedTest.git
    ```
 
 
