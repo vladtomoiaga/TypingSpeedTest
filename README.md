@@ -30,7 +30,6 @@ In this section you will find the important technologies for this project.
 
 
 
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
