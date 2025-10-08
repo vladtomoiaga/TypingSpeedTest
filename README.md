@@ -16,7 +16,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About the project
 
-This app 
+This app can test the ability of the user how fast and correct he can write.
 
 
 
